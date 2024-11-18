@@ -1,3 +1,8 @@
+/*
+    Note: Abstract methods can only be defined in abstract classes.
+    Else they will throw exception errors
+*/
+
 abstract class Car { // An abstract class Car
     // Abstract method of the class car is drive
     abstract public void drive();
