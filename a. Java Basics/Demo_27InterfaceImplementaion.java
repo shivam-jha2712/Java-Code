@@ -46,7 +46,7 @@ class Developer {
     }
 }
 
-public class Demo_26Interface {
+public class Demo_27InterfaceImplementaion {
     public static void main(String[] args) {
         // Polymorphic behavior: Using interface reference to hold objects of
         // implementing classes
